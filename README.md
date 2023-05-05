@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Sarthak Joshi</h1>
 <h3 align="center">👦Aspiring developer and current engineering student with a passion for web development.</h3>
 
